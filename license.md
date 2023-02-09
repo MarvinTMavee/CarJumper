@@ -1,1 +1,2 @@
-© 2021 MaveeYT Development All Rights Reserved
+This project is open under the following license:
+© CC BY-NC
