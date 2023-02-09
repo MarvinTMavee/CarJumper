@@ -1,5 +1,8 @@
 # CarJumper
-CarJumper is a game I made for the GBJam 9.<br>
-Btw, the shaders are removed because of legal reasons. If you want to use the shader used, buy the shaderpack <a href="https://marketplace.yoyogames.com/assets/9609/super-shader-pack-1">here</a> for just 5$
+CarJumper is a game made for the GBJam 9.<br>
 
-<a href="https://maveeyt.itch.io/car-jumper">Play Now</a>
+The used shader is not avalible in this repository. Please buy it <a href="https://marketplace.yoyogames.com/assets/9609/super-shader-pack-1">here</a>.
+
+
+<a href="https://maveeyt.itch.io/car-jumper">Play on itch.io</a>
+
